@@ -4,7 +4,7 @@ A userscript for [xkcd](https://xkcd.com/), "a webcomic of romance, sarcasm, mat
 
 Here is a screenshot of the addition:
 
-<img src="https://github.com/untir-l/userscripts/blob/main/Explain-XKCD-Quick-Link/screenshot.png?raw=true" width="500">
+<img src="https://github.com/untir-l/userscripts/blob/main/ExplainXKCD-Quick-Link/screenshot.png?raw=true" width="500">
 
 This will always go to the page for the specific comic you are viewing.
 
