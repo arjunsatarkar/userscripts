@@ -10,12 +10,10 @@ This will always go to the page for the specific comic you are viewing.
 
 ## Usage
 
-Load `explainxkcd_quick_link.user.js` into your userscript manager of choice (it is tested with Tampermonkey).
+Load `explainxkcd_quick_link.user.js` into your userscript manager of choice (it is tested with Greasemonkey).
 
-A userscript is a bit like a browser extension - it's a JavaScript file which is automatically executed on certain pages (in this case on xkcd) and improves them in some way. You will need an extension like Tampermonkey or Greasemonkey to use userscripts.
+A userscript is a bit like a browser extension - it's a JavaScript file which is automatically executed on certain pages (in this case on xkcd) and improves them in some way. You will need an extension like Greasemonkey or Tampermonkey to use userscripts.
 
-## Copyright and technical info
+## Copyright info
 
 This userscript is copyright © 2021 Arjun Satarkar and licensed under the MIT License. See LICENSE.txt for the full text.
-
-Written in JavaScript to run as a TamperMonkey userscript. Code formatted using the XO style with ESLint.
