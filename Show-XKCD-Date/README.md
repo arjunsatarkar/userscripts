@@ -1,6 +1,6 @@
 # ExplainXKCD-Quick-Link
 
-A userscript for [xkcd](https://xkcd.com/), "a webcomic of romance, sarcasm, math, and language", which for each comic adds text specifying the date the comic was posted based on the API.
+A userscript for [xkcd](https://xkcd.com/), "a webcomic of romance, sarcasm, math, and language", which for each comic adds text specifying the date the comic was posted from the API.
 
 Here is a screenshot of the addition, highlighted:
 
